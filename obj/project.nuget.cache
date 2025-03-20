@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4H2YQRse5PY=",
+  "success": true,
+  "projectFilePath": "/Users/davestorey/csharpacademy/MathGame/MathGame.csproj",
+  "expectedPackageFiles": [
+    "/Users/davestorey/.nuget/packages/spectre.console/0.49.1/spectre.console.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}

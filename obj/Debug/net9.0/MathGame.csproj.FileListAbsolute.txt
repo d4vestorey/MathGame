@@ -1,0 +1,17 @@
+/Users/davestorey/csharpacademy/MathGame/bin/Debug/net9.0/MathGame
+/Users/davestorey/csharpacademy/MathGame/bin/Debug/net9.0/MathGame.deps.json
+/Users/davestorey/csharpacademy/MathGame/bin/Debug/net9.0/MathGame.runtimeconfig.json
+/Users/davestorey/csharpacademy/MathGame/bin/Debug/net9.0/MathGame.dll
+/Users/davestorey/csharpacademy/MathGame/bin/Debug/net9.0/MathGame.pdb
+/Users/davestorey/csharpacademy/MathGame/bin/Debug/net9.0/Spectre.Console.dll
+/Users/davestorey/csharpacademy/MathGame/obj/Debug/net9.0/MathGame.csproj.AssemblyReference.cache
+/Users/davestorey/csharpacademy/MathGame/obj/Debug/net9.0/MathGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davestorey/csharpacademy/MathGame/obj/Debug/net9.0/MathGame.AssemblyInfoInputs.cache
+/Users/davestorey/csharpacademy/MathGame/obj/Debug/net9.0/MathGame.AssemblyInfo.cs
+/Users/davestorey/csharpacademy/MathGame/obj/Debug/net9.0/MathGame.csproj.CoreCompileInputs.cache
+/Users/davestorey/csharpacademy/MathGame/obj/Debug/net9.0/MathGame.csproj.Up2Date
+/Users/davestorey/csharpacademy/MathGame/obj/Debug/net9.0/MathGame.dll
+/Users/davestorey/csharpacademy/MathGame/obj/Debug/net9.0/refint/MathGame.dll
+/Users/davestorey/csharpacademy/MathGame/obj/Debug/net9.0/MathGame.pdb
+/Users/davestorey/csharpacademy/MathGame/obj/Debug/net9.0/MathGame.genruntimeconfig.cache
+/Users/davestorey/csharpacademy/MathGame/obj/Debug/net9.0/ref/MathGame.dll
