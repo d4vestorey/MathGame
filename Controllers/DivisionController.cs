@@ -1,10 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Spectre.Console;
-using MathGame.Models;
-
 namespace MathGame.Controllers
 {
     internal class DivisionController : BaseController

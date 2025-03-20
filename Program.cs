@@ -1,7 +1,4 @@
-﻿using System.Security.Cryptography;
-using MathGame;
-using Spectre.Console;
-
+﻿using MathGame;
 
 MainMenu mainMenu= new MainMenu();
 
